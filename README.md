@@ -12,15 +12,11 @@ Musician turned Developer, turning my skills for writing scores to composing pro
 
 ## Projects
 
-  Title        | Timeframe          | What is it? | Technologies | Live |
- :---------:  | ------------- |-------------| ------- |
-      | 1 week |  |  |
-       | 1 week |  |  | [Link](https://theacebook.herokuapp.com/)
-
  Project | Description | When | Technologies | Live?
  ------- | ----------- | ---- | ------------ | ------
  [The Acebook](https://github.com/RSijelmass/acebook)  |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | Week 8 | Ruby, Rails, RSpec, Capybara, HTML, CSS, Carrierwave, Clearance | [Link](https://theacebook.herokuapp.com/)
- [Make It Rain](https://github.com/tobywinter/makeitrain) |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Week 10 |  Python, SciKit, Numpy, Pandas, Flask | n/a
+ [Make It Rain](https://github.com/tobywinter/makeitrain) |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Week 9 |  Python, SciKit, Numpy, Pandas, Flask | n/a
+ [Ductu](https://github.com/rogrenke/to-learn-list) |  A platform that aims to bring together Mentees and Mentors, inviting them to share content and feedback more effectively. | Week 11 & 12 |  Express, Node.js, ES6, MongoDB, Pug, Mocha, Chai, Zombie | [Link](https://ductu.herokuapp.com/)
 
 ## Skills
 
