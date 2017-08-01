@@ -53,9 +53,11 @@ As a creative 90% of the work is communication, all my time spent as a musician,
 
 **Entura International** (09/2016 to Present)    
 *Junior Analyst*  
+Identifying and removing pirated content from the internet in a fast paced evolving environment
 
 **Freelance Composer & Musician** (07/2014 to Present)   
 *Song Jockey*  
+Composing scores and songs for independent films, band projects and personal projects.  
 
 ## Hobbies and Interests
 
