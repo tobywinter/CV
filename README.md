@@ -12,10 +12,10 @@ Musician turned Developer, turning my skills for writing scores to composing pro
 
 ## Projects
 
-|  Title        | Timeframe          | What is it? | Technologies | Live |
-| :---------:  | ------------- |-------------| -------|
-| [The Acebook](https://github.com/RSijelmass/acebook)      | 1 week |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | Ruby, Rails, RSpec, Capybara, HTML, CSS, Carrierwave, Clearance | [Link](https://theacebook.herokuapp.com/)
-| [Make It Rain](https://github.com/tobywinter/makeitrain)      | 1 week |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask | [Link](https://theacebook.herokuapp.com/)
+  Title        | Timeframe          | What is it? | Technologies | Live |
+ :---------:  | ------------- |-------------| ------- |
+ [The Acebook](https://github.com/RSijelmass/acebook)      | 1 week |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | Ruby, Rails, RSpec, Capybara, HTML, CSS, Carrierwave, Clearance | [Link](https://theacebook.herokuapp.com/)
+ [Make It Rain](https://github.com/tobywinter/makeitrain)      | 1 week |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask | [Link](https://theacebook.herokuapp.com/)
 
 ## Skills
 
@@ -25,7 +25,7 @@ Strong in left and right brain thinking, I like to solve problems creatively and
 
 #### Communication
 
-As a creative 90% of the work is communication, all my time spent as a musician, writing music for young film makers projects, working on collaborative projects with bands has relied on understanding and aligning a shared vision.
+As a creative 90% of the work is communication, all my time spent as a musician, writing music for young film makers projects and working on collaborative projects with bands has relied on understanding and aligning a shared vision.
 
 - As a student I was elected President of the Southampton University: Showstoppers Musical Theatre Society, a challenge which greatly improved my leadership and taught me to manage a diverse team of strong characters.
 - As Director of a production of The Graduate in the final year of my degree, working with actors, a tight knit production team, a tech team and the Theatre Group society, I translated my vision into reality and successful produced a profitable show over a two month period.
@@ -57,7 +57,7 @@ As a creative 90% of the work is communication, all my time spent as a musician,
 
 ## Hobbies and Interests
 
-- Music, Film, Science Fiction, Artificial Intelligence, Music Composition/Production, Yoga, Mindfulness
+- Music, Film, Science Fiction, Artificial Intelligence, Music Composition/Production, Yoga, Mindfulness,
 
 ## Links
 
