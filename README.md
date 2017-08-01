@@ -47,8 +47,6 @@ As a creative 90% of the work is communication, all my time spent as a musician,
 - 2:1
 - President of Showstoppers Society, Choral Scholar, Director, Actor
 
-#### Any other qualifications
-
 ## Experience
 
 **Entura International** (09/2016 to Present)    
