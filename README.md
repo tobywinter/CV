@@ -8,9 +8,6 @@ Musician turned Developer, 5 months ago I made the choice to learn to code and u
 
 **Tech Skills** : Ruby, Rails, Sinatra, JavaScript, Node.js, Express, HTML, Pug, CSS, Bootstrap, Bulma, PostgreSQL
 
-
-## Projects
-
 ## Projects
 
  Project | Description | When | Technologies | Live?
