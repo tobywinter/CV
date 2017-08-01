@@ -23,10 +23,6 @@ Musician turned Developer, turning my skills for writing scores to composing pro
 
 Strong in left and right brain thinking, I like to solve problems creatively and analytically. If it's a technical challenge, like where to start with a project using machine learning when it's new to the whole team, or a social issue we want to tackle with tech, like the unchecked misinformation of fake news, I get great pleasure working to find innovative solutions and learning things in the process.
 
-- Experience
-- Achievements
-- Evidence
-
 #### Communication
 
 As a creative 90% of the work is communication, all my time spent as a musician, writing music for young film makers projects, working on collaborative projects with bands has relied on understanding and aligning a shared vision.
