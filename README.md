@@ -1,9 +1,10 @@
 Toby Hasler-Winter
 ===================
+### Full Stack Junior Developer
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-hasler-winter-16901227)
 
-Musician turned Developer, turning my skills for writing scores to composing programmes. I have experience in marketing, pr, and hospitality and have worked freelance as a musician and composer for the past 3 years out of University. I am am looking to work as a full stack Junior Developer in an agile team, with a creative, social environment, making cool things that make peoples lives better.
+Musician turned Developer, 5 months ago I made the choice to learn to code and use my skills for writing scores to compose programmes. As a creative, continuously learning and making things is what I love, so gaining the tools to do that in such an exciting industry with technology felt like coming home to me. I have experience in Marketing, PR, and Hospitality and have worked freelance as a Musician and Composer for the past 3 years out of University. I am looking for work as a Full Stack Junior Developer in an agile team, with a creative, social environment, making cool things that make peoples lives better.
 
 **Tech Skills** : Ruby, Rails, Sinatra, JavaScript, Node.js, Express, HTML, Pug, CSS, Bootstrap, Bulma, PostgreSQL
 
