@@ -12,10 +12,10 @@ Musician turned Developer, turning my skills for writing scores to composing pro
 
 ## Projects
 
-| ![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png)![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png) | Title        | Timeframe          | What is it? | Live |
+|  Title        | Timeframe          | What is it? | Technologies | Live |
 | :---------:  | ------------- |-------------| -------|
-| | [The Acebook](https://github.com/RSijelmass/acebook)      | 1 week |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | [Link](https://theacebook.herokuapp.com/)
-| | [Make It Rain](https://github.com/tobywinter/makeitrain)      | 1 week |  Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project.	Python, SciKit, Numpy, Pandas, Flask | [Link](https://theacebook.herokuapp.com/)
+| [The Acebook](https://github.com/RSijelmass/acebook)      | 1 week |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | Ruby, Rails, RSpec, Capybara, HTML, CSS, Carrierwave, Clearance | [Link](https://theacebook.herokuapp.com/)
+| [Make It Rain](https://github.com/tobywinter/makeitrain)      | 1 week |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask | [Link](https://theacebook.herokuapp.com/)
 
 ## Skills
 
