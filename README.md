@@ -29,6 +29,13 @@ As a creative 90% of the work is communication, all my time spent as a musician,
 - As a student I was elected President of the Southampton University: Showstoppers Musical Theatre Society, a challenge which greatly improved my leadership and taught me to manage a diverse team of strong characters.
 - As Director of a production of The Graduate in the final year of my degree, working with actors, a tight knit production team, a tech team and the Theatre Group society, I translated my vision into reality and successful produced a profitable show over a two month period.
 
+#### Quick Learner
+
+During my career as a musician my desire to do bigger, better, and more authentic things has lead me to learn a great deal, including studying singing and teaching myself to play guitar, bass, piano, ukulele, clarinet, bassoon and studio engineering and production.
+
+- I learnt to play all the instruments I wanted to use in musician, so that I could write, play and record demos for tracks intended to be played by a full band.
+- As a student on the Makers Academy 12 week course, I began with a very basic understanding of Ruby syntax, by the final week I have produced projects using Ruby, Rails, JavaScript, Express, Node.js, and Python.
+
 ## Education
 
 #### Makers Academy (05/2017 to 07/2017)
