@@ -20,7 +20,9 @@ Musician turned Developer, 5 months ago I made the choice to learn to code and u
 
 #### Problem Solving
 
-Strong in left and right brain thinking, I like to solve problems creatively and analytically. If it's a technical challenge, like where to start with a project using machine learning when it's new to the whole team, or a social issue we want to tackle with tech, like the unchecked misinformation of fake news, I get great pleasure working to find innovative solutions and learning things in the process.
+Strong in left and right brain thinking, I like to solve problems creatively and analytically. Whether it's a technical challenge, or a social issue I get great pleasure working with people to find innovative solutions and learning things in the process.
+
+- When building a facebook-style clone, our team decided we wanted to make something unique and tackle the problem of fake news, I took on this challenge with a pair, and after brainstorming, research and discussion, we constructed a elegant solution using data we had sourced to identify unreliable sites and sources when they were posted, and to flag them with a warning about the nature of that site.
 
 #### Communication
 
@@ -31,7 +33,7 @@ As a creative 90% of the work is communication, all my time spent as a musician,
 
 #### Quick Learner
 
-During my career as a musician my desire to do bigger, better, and more authentic things has lead me to learn a great deal, including studying singing and teaching myself to play guitar, bass, piano, ukulele, clarinet, bassoon and studio engineering and production.
+During my career as a musician my desire to do bigger, better, and more authentic things has lead me to learn a great deal, including studying singing and teaching myself to play guitar, bass, piano, ukulele, clarinet, bassoon and studio engineering and production. My inclination to learn new things quickly, and put them into practice, helped me learn and develop with countless technologies in 12 weeks, and continues to do so.
 
 - I learnt to play all the instruments I wanted to use in musician, so that I could write, play and record demos for tracks intended to be played by a full band.
 - As a student on the Makers Academy 12 week course, I began with a very basic understanding of Ruby syntax, by the final week I have produced projects using Ruby, Rails, JavaScript, Express, Node.js, and Python.
