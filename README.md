@@ -57,6 +57,10 @@ During my career as a musician my desire to do bigger, better, and more authenti
 
 ## Experience
 
+**Victoria And Albert Museum** (09/2017 to Present)    
+*Software Engineer*  
+Building upon extensive legacy code, creating a unique template for research projects at the museum, and extending an existing CRM system to allow research admins to manage the online content for their projects. Using Ruby on Rails, React, JavaScript, Fractal, SCSS & HTML.
+
 **Entura International** (09/2016 to Present)    
 *Junior Analyst*  
 Identifying and removing pirated content from the internet in a fast paced evolving environment
