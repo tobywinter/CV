@@ -1,20 +1,28 @@
-Toby Hasler-Winter
-===================
+# Toby Hasler-Winter
+
 ### Full Stack Junior Developer
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-hasler-winter-16901227)
 
 Musician turned Developer, 5 months ago I made the choice to learn to code and use my skills for writing scores to compose programmes. As a creative, continuously learning and making things is what I love, so gaining the tools to do that in such an exciting industry with technology felt like coming home to me. I have experience in Marketing, PR, and Hospitality and have worked freelance as a Musician and Composer for the past 3 years out of University. I am looking for work as a Full Stack Junior Developer in an agile team, with a creative, social environment, making cool things that make peoples lives better.
 
-**Tech Skills** : Ruby, Rails, Sinatra, JavaScript, Node.js, Express, HTML, Pug, CSS, Bootstrap, Bulma, PostgreSQL
+**Tech Skills** : React, JavaScript, Node.js, Express, GraphQL, Python, Ruby, CSS, PostgreSQL
 
-## Projects
+## Recent Projects
 
- Project | Description | When | Technologies | Live?
- ------- | ----------- | -------- | ------------ | ------
- [The Acebook](https://github.com/RSijelmass/acebook)  |  A simple facebook clone. As an additional challenge we created a fake news API, flagging links considered unreliable using data from Politifact & Opensources | Week 8 | Ruby, Rails, RSpec, Capybara, HTML, CSS, Carrierwave, Clearance | [Link](https://theacebook.herokuapp.com/)
- [Make It Rain](https://github.com/tobywinter/makeitrain) |  Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Week 9 |  Python, SciKit, Numpy, Pandas, Flask | n/a
- [Ductu](https://github.com/rogrenke/to-learn-list) |  A platform that aims to bring together Mentees and Mentors, inviting them to share content and feedback more effectively. | Week 11 & 12 |  Express, Node.js, ES6, MongoDB, Pug, Mocha, Chai, Zombie | [Link](https://ductu.herokuapp.com/)
+| Project        | Description                                                                                                                                                                                                          | Technologies                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Missions       | A feature that provides bite-size, mobile friendly next steps for users building their family tree. This included architecting and building a new service to generate and manage these missions for users.           | React, GraphQL, Kafka, Node, Docker, SQL                |
+| Maps           | A map driven search feature to allow users to search geocoded record sets by postcode, address or lat/long.                                                                                                          | React, Elixir, Leaflet, OpenStreetMap Api, LaunchDarkly |
+| Tree Migration | Migrating a legacy tree product built in Angular 1.x to a new stack and UI. This project involved redesigning the architecture, replacing a legacy API service in stages, and managing complex product requirements. | React, GraphQL, Node, Express, SQL                      |
+
+## Personal Projects
+
+| Project                                                        | Description                                                                                                                                | Technologies                         | Link                          |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ----------------------------- |
+| [PlayThru](https://github.com/jackbittiner/play-thru)          | A track recommendation app for DJs. Uses spotify data and music theory to generate smart mix suggestions.                                  | React, GraphQL, Spotify Web API      | [Link](https://playthru.xyz/) |
+| [Camelot Wheel](https://github.com/jackbittiner/camelot-wheel) | An NPM package to allow for easy use of logic related the Circle of Fifths or 'Camelot Wheel'.                                             | Node.js                              |
+| [Make It Rain](https://github.com/tobywinter/makeitrain)       | Predicting short and long term movement of the FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask | n/a                           |
 
 ## Skills
 
@@ -57,17 +65,21 @@ During my career as a musician my desire to do bigger, better, and more authenti
 
 ## Experience
 
-**Victoria And Albert Museum** (09/2017 to Present)    
-*Software Engineer*  
+**Find My Past** (11/2017 to Present)  
+_Software Engineer_  
+Full stack development in an crossfunctional feature team with an agile philosophy. Heavily focussed on data driven development, running A/B tests using LaunchDarkly to run experiments on all new features and iterations.
+
+**Victoria And Albert Museum** (09/2017 to 10/2017)  
+_Software Engineer_  
 Building upon extensive legacy code, creating a unique template for research projects at the museum, and extending an existing CRM system to allow research admins to manage the online content for their projects. Using Ruby on Rails, React, JavaScript, Fractal, SCSS & HTML.
 
-**Entura International** (09/2016 to Present)    
-*Junior Analyst*  
+**Entura International** (09/2016 to 10/2017)  
+_Junior Analyst_  
 Identifying and removing pirated content from the internet in a fast paced evolving environment
 
-**Freelance Composer & Musician** (07/2014 to Present)   
-*Song Jockey*  
-Composing scores and songs for independent films, band projects and personal projects.  
+**Freelance Composer & Musician** (07/2014 to Present)  
+_Song Jockey_  
+Composing scores and songs for independent films, band projects and personal projects.
 
 ## Hobbies and Interests
 
