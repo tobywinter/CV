@@ -4,7 +4,7 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/toby-hasler-winter-16901227)
 
-I'm a Musician turned Developer, gone from Radio X's Hot Track of the Week and writing scores, to composing code. Because as a creative, continuous learning and making things is what fires me up. I am looking for work as a Full Stack Developer in an agile team, with a creative, social environment, making cool things that make peoples lives better.
+I'm a Musician turned Developer, gone from writing Radio X's Hot Track of the Week, to composing code. Because as a creative, continuous learning and making things is what fires me up. I am looking for work as a Full Stack Developer in an agile team, with a creative, social environment, making cool things that make peoples lives better.
 
 **Tech Skills** : React, JavaScript, Node.js, Apollo/GraphQL, Express, Python, Ruby, CSS, PostgreSQL
 
