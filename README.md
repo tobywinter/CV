@@ -34,7 +34,7 @@ In my role at Cazoo, I have significantly enhanced my leadership and project man
 
 ## Experience
 
-**Cazoo (02/2020 to Present)**  
+**Cazoo** (02/2020 to Present)
 _Senior Software Engineer_
 
 - Played a pivotal role in driving key projects and initiatives aimed at enhancing the platform's functionality and contributing to a substantial increase in Gross Profit per Unit (GPU). With the Car Care initiatives resulting in additional £300 GPU cumulatively.
@@ -44,7 +44,7 @@ _Senior Software Engineer_
 - Optimisation with Data-driven development running multiple A/B tests monthly.
 - Internationalised the Checkouts to work across Europe for expansion while in hyper-growth.
 
-**Find My Past (11/2017 to 02/2020)**  
+**Find My Past** (11/2017 to 02/2020) 
 _Software Engineer_
 
 - Full stack development in a cross-functional feature team with agile philosophies.
@@ -52,7 +52,7 @@ _Software Engineer_
 - Part of a Tech Evangelists team improving tech culture, organising meet-ups and hackathons.
 - Coordinated the response to a major site attack causing outages.
 
-**Victoria And Albert Museum (09/2017 to 10/2017)**  
+**Victoria And Albert Museum** (09/2017 to 10/2017) 
 _Software Engineer_
 
 - Built upon extensive legacy code, created a unique template for research projects at the museum.
@@ -63,7 +63,7 @@ _Software Engineer_
 
 ## Education
 
-**Makers Academy (05/2017 to 07/2017)**
+**Makers Academy** (05/2017 to 07/2017)
 
 - Growth mindset, independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD.
@@ -71,7 +71,7 @@ _Software Engineer_
 - Ruby, Rails, JavaScript, Python.
 - Final Project: A Node Networking platform for Mentorship and Coaching.
 
-**University of Southampton (09/2011 to 07/2014)**
+**University of Southampton** (09/2011 to 07/2014)
 
 - Music & English BA(hons), 2:1.
 - President of Showstoppers Society, Choral Scholar, Director, Actor.
@@ -81,14 +81,6 @@ _Software Engineer_
 **Hobbies and Interests**
 
 - Music, Science Fiction, Artificial Intelligence, Music Composition/Production, Yoga, Mindfulness.
-
-### Personal Projects
-
-| Project                                                        | Description                                                                                               | Technologies                         | Link                          |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------- |
-| [PlayThru](https://github.com/jackbittiner/play-thru)          | A track recommendation app for DJs. Uses spotify data and music theory to generate smart mix suggestions. | React, GraphQL, Spotify Web API      | [Link](https://playthru.xyz/) |
-| [Camelot Wheel](https://github.com/jackbittiner/camelot-wheel) | An NPM package to allow for easy use of logic related the Circle of Fifths or 'Camelot Wheel'.            | Node.js                              |
-| [Make It Rain](https://github.com/tobywinter/makeitrain)       | Predicting short and long term movement of the FTSE Index using machine learning.                         | Python, SciKit, Numpy, Pandas, Flask | n/a                           |
 
 ---
 
