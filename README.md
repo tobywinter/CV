@@ -6,16 +6,14 @@
 
 ---
 
-I'm a Musician turned Software Engineer, gone from writing Radio X's Hot Track of the Week, to composing code. As a creative, continuous learning and making things is what fires me up. I am looking for work as a Full Stack Senior Software Engineer in an agile team, with a creative, social environment, making cool things that make people's lives better.
-
-In my role at Cazoo, I have significantly enhanced my leadership and project management capabilities, consistently leading key projects and facilitating cross-functional team collaboration. My experience as a Tech Lead has deepened my expertise in software architecture and discovery, enabling me to re-architect systems for innovative product offerings. Additionally, I have honed my skills in stakeholder management and communication, effectively aligning commercial and third-party stakeholders to achieve project goals. These experiences have equipped me with a robust understanding of project dynamics and the ability to drive successful outcomes in a fast-paced, agile environment.
+With seven years of experience as a software engineer, I combine a creative background in music with a strong technical skillset. My transition from music to tech has equipped me with unique problem-solving skills and a passion for innovation. In my role at Cazoo, I lead key projects, enhance software architecture, and drive cross-functional team collaboration to deliver impactful results. I am seeking a Senior Full Stack Software Engineer role in a dynamic, agile team where I can contribute to creating bold solutions that improve lives.
 
 ---
 
-**Tech Skills:**
+### Tech Skills:
 
 - **Front-End:** React, JavaScript, Typescript, CSS
-- **Back-End:** Node.js, Python, Ruby, Express, PostgreSQL
+- **Back-End:** Node.js, Python, Ruby, Express, PostgreSQL, Terraform,
 - **DevOps:** AWS Technologies e.g. Lambda, DynamoDB, S3, EventBridge, Cloudwatch, API Gateway, Stepfunctions, Serverless, Micro-Frontends, Github Actions, Circle CI
 - **Other:** Apollo/GraphQL, Datadog, Kibana, Postman, Miro, Notion, Jira
 
@@ -23,18 +21,18 @@ In my role at Cazoo, I have significantly enhanced my leadership and project man
 
 ## Recent Projects
 
-| Project                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Technologies                                                                                                  |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| **Manufacturer-Based Pricing Initiative** | - Served as Tech Lead from Discovery to Launch. <br>- Re-architected the system end-to-end to facilitate the delivery of the first-of-its-kind automotive warranty product pricing offering. <br>- Delivered the project on schedule. <br>- Contributed an estimated £80 in GPU. <br>- Generated approximately £4 million in revenue in its launch year. <br>- Managed project communications. <br>- Aligned cross-functional teams, commercial, and third-party stakeholders. | React, Node, Events Driven Architecture, Serverless AWS Technologies, Lambdas, DynamoDB, SSM                  |
-| **Sell Your Car Checkout**                | - Led the discovery and delivery of a checkout system enabling customers to sell their vehicles to Cazoo. <br> - Pioneered Micro-Frontend technology to decouple workstreams of different teams and increase feature delivery speed. <br> - Quickly scaled product to provide 185,000 vehicle valuations per month.                                                                                                                                                            | React, Node, Typescript, Serverless AWS Technologies, DynamoDB, Micro-Frontends                               |
-| **Non-Metal Checkout**                    | - Developed an embeddable Micro-Frontend checkout to sell add-on products post-vehicle sale (Extended Warranties, Service Plans). <br>- Allowed product sales through dealership staff, customer service over the phone, and via customers' online accounts. <br>- Built a custom Order API to replace an existing headless e-commerce system, reducing costs and integrating with multiple third-party product providers.                                                     | React, Node, Typescript, Micro-Frontends, Salesforce LWC, Serverless AWS Technologies, Lambdas, DynamoDB, SSM |
-| **Vehicle Locking System**                | Served as the engineering lead for the discovery and delivery of an API to prevent multiple users from attempting to check out with the same vehicle.                                                                                                                                                                                                                                                                                                                          | Node, Typescript, Serverless AWS Technologies, Lambdas, DynamoDB, SSM                                         |
+| Project                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                         | Technologies                                                                                                  |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Manufacturer-Based Pricing Initiative** | - Served as Tech Lead from Discovery to Launch. <br>- Re-architected the system end-to-end to facilitate the delivery of the first-of-its-kind automotive warranty product pricing offering. <br>- Contributed an estimated £80 in GPU. <br>- Estimated to generate £4 million in revenue in its launch year. <br>- Managed project communications. <br>- Aligned cross-functional teams, commercial, and third-party stakeholders. | React, Node, Events Driven Architecture, Serverless AWS Technologies, Lambdas, DynamoDB, SSM                  |
+| **Sell Your Car Checkout**                | - Led the discovery and delivery of a checkout system enabling customers to sell their vehicles to Cazoo. <br> - Pioneered Micro-Frontend technology to decouple workstreams of different teams and increase feature delivery speed. <br> - Quickly scaled product to provide 185,000 vehicle valuations per month.                                                                                                                 | React, Node, Typescript, Serverless AWS Technologies, DynamoDB, Micro-Frontends                               |
+| **Non-Metal Checkout**                    | - Developed an embeddable Micro-Frontend checkout to sell add-on products post-vehicle sale (Extended Warranties, Service Plans). <br>- Allowed product sales through dealership staff, customer service over the phone, and via customers' online accounts. <br>- Built a custom Order API to replace an existing headless e-commerce system, reducing costs and integrating with multiple third-party product providers.          | React, Node, Typescript, Micro-Frontends, Salesforce LWC, Serverless AWS Technologies, Lambdas, DynamoDB, SSM |
+| **Vehicle Locking System**                | Served as an engineering lead for the discovery and delivery of an API to prevent multiple users from attempting to check out with the same vehicle.                                                                                                                                                                                                                                                                                | Node, Typescript, Serverless AWS Technologies, Lambdas, DynamoDB, SSM                                         |
 
 ---
 
 ## Experience
 
-**Cazoo** (02/2020 to Present)
+**Cazoo** (02/2020 to Present) <br>
 _Senior Software Engineer_
 
 - Played a pivotal role in driving key projects and initiatives aimed at enhancing the platform's functionality and contributing to a substantial increase in Gross Profit per Unit (GPU). With the Car Care initiatives resulting in additional £300 GPU cumulatively.
@@ -44,7 +42,7 @@ _Senior Software Engineer_
 - Optimisation with Data-driven development running multiple A/B tests monthly.
 - Internationalised the Checkouts to work across Europe for expansion while in hyper-growth.
 
-**Find My Past** (11/2017 to 02/2020) 
+**Find My Past** (11/2017 to 02/2020) <br>
 _Software Engineer_
 
 - Full stack development in a cross-functional feature team with agile philosophies.
@@ -52,7 +50,7 @@ _Software Engineer_
 - Part of a Tech Evangelists team improving tech culture, organising meet-ups and hackathons.
 - Coordinated the response to a major site attack causing outages.
 
-**Victoria And Albert Museum** (09/2017 to 10/2017) 
+**Victoria And Albert Museum** (09/2017 to 10/2017) <br>
 _Software Engineer_
 
 - Built upon extensive legacy code, created a unique template for research projects at the museum.
@@ -78,9 +76,9 @@ _Software Engineer_
 
 ---
 
-**Hobbies and Interests**
+### Hobbies and Interests
 
-- Music, Science Fiction, Artificial Intelligence, Music Composition/Production, Yoga, Mindfulness.
+- Music, Genomics, Psychology, Science Fiction, Artificial Intelligence, Music Composition/Production, Yoga, Mindfulness.
 
 ---
 
