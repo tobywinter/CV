@@ -6,7 +6,7 @@
 
 ---
 
-With seven years of experience as a software engineer, I combine a creative background in music with a strong technical skillset. My transition from music to tech has equipped me with unique problem-solving skills and a passion for innovation. In my role at Cazoo, I lead key projects, enhance software architecture, and drive cross-functional team collaboration to deliver impactful results. I am seeking a Senior Full Stack Software Engineer role in a dynamic, agile team where I can contribute to creating bold solutions that improve lives.
+With seven years of experience as a software engineer, I combine a strong technical skillset with a creative background in music resulting in unique problem-solving skills and a passion for innovation. At Cazoo, I lead key projects, enhance software architecture, and drive cross-functional team collaboration to deliver impactful results. I am seeking a Senior Full Stack Software Engineer role in a dynamic, agile team where I can contribute to creating bold solutions that improve lives.
 
 ---
 
